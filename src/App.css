@@ -1,9 +1,9 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-}
+} */
 
 /* .logo {
   height: 6em;
@@ -41,7 +41,7 @@
   color: #888;
 } */
 
-.text-name{
+/* .text-name{
   color: black;
   font-size: 25;
 }
@@ -53,7 +53,7 @@
   border-radius: 1rem;
 }
 .item {
-  /* color: "#ffffff"; */
+color: "#ffffff"; 
   transition: color 300ms;
 }
 .container:has(.item:hover)

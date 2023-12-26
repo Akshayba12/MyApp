@@ -8,6 +8,7 @@ import Home from './components/Home'
 import Contacts from './components/contacts'
 import Dashboard from './screen/Dashboard'
 import Debounce from './components/Debounce'
+import '@coreui/coreui/scss/coreui.scss';
 
 const LazyLoad = React.lazy(() => import('./components/About'))
 
